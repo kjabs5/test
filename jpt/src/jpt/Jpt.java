@@ -7,7 +7,8 @@ public class Jpt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List<String> book=Arrays.asList("kol","pol","sol");
+		List<String> book=Arrays.asList("kol","pol","sol","tol","jol");
+		//added 2 book strings
         System.out.println("arrays are:"+book);
 	}
 
